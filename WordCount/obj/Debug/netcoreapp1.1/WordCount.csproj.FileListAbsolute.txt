@@ -1,0 +1,8 @@
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/bin/Debug/netcoreapp1.1/WordCount.deps.json
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/bin/Debug/netcoreapp1.1/WordCount.runtimeconfig.json
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/bin/Debug/netcoreapp1.1/WordCount.runtimeconfig.dev.json
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/obj/Debug/netcoreapp1.1/WordCount.AssemblyInfo.cs
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/bin/Debug/netcoreapp1.1/WordCount.dll
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/bin/Debug/netcoreapp1.1/WordCount.pdb
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/obj/Debug/netcoreapp1.1/WordCount.dll
+/Users/loischoi/Desktop/WordCount.Solution/WordCount/obj/Debug/netcoreapp1.1/WordCount.pdb
